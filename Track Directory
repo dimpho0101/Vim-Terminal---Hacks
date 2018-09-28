@@ -1,0 +1,8 @@
+Things tend to get hectic in the terminal, and knowing where you are all the time is a pain.
+So what do I use to keep track of my working directory?
+OH MY ZSH
+Oh my zsh is a theme/plugin that will help you know excatly where you are. Without it you can keep type "pwd"
+
+How to use:
+git clone: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" 
+Or check out their website for more themes https://ohmyz.sh/
