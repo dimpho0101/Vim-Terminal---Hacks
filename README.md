@@ -3,7 +3,7 @@ Vim and Terminal hacks for unix.
 
 Why vim?Well because emacs  sucks.
 
-This series of hacks is meant for beginners. So if you find anything confusing or you have input, dont hestitate to contact me.
+This series of hacks is meant for beginners. So if you find anything confusing or you have input, dont hestitate to contact me or @kaysiz
 
 What is a terminal?
 A application provides text-based access to the operating system, in contrast to the mostly graphical nature of the user experience
